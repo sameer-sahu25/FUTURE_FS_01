@@ -9,9 +9,8 @@ This portfolio is designed with a sleek "Aurora" aesthetic, featuring smooth ani
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, Vite, Tailwind CSS, Framer Motion, Radix UI
-- **Backend:** Node.js, Express, PostgreSQL, Sequelize, JWT, REST APIs
-- **AI / ML:** Python, scikit-learn, FastAPI, TensorFlow
-- **Tools:** Git, GitHub, Vercel, Netlify, Render, Neon DB
+- **Backend:** Node.js, Express, PostgreSQL, Sequelize, JWT, REST API
+- **Tools:** Git, GitHub, Vercel
 
 ## ✨ Features
 
