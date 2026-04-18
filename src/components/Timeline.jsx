@@ -22,7 +22,7 @@ const events = [
         icon: GraduationCap,
         side: "left",
         year: "2024 — 2028",
-        title: "B.Tech, Computer Science",
+        title: "B.Tech, Artificial Intelligence and Machine Learning",
         sub: "Shree Ram Institute of Science & Tech, Jabalpur",
         text: "Specializing in AI & ML. Coursework in DSA, Web Dev, DBMS and Software Engineering.",
     },
