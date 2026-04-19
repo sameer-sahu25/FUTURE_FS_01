@@ -41,7 +41,7 @@ src/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sameer-sahu25/sameer-s-digital-canvas.git
+   git clone https://github.com/sameer-sahu25/FUTURE_FS_01.git
    ```
 
 2. **Install dependencies:**
